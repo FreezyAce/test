@@ -1,1 +1,1 @@
-prin("Hello worl")
+prin("Hello world")
